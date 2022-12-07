@@ -1,1 +1,2 @@
-web: vendor/bin/heroku-php-apache2 public/
+web: /APPSALON_MVC-server-web
+worker: /APPSALON_MVC-server-worker
